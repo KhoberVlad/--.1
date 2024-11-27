@@ -4,6 +4,6 @@ cout << setw(20) << internal << showpos << -67.09 << endl;
 cout << setw(15) << right << showpos << 235 << endl;
 cout << '8' << 'a' << '1' << endl;
 
-const n = 15
-a[n];
-y+x
+cout << setw(20) << internal << showpos << -67.09 << endl;
+cout << setw(15) << right << showpos << 235 << endl;
+cout << '8' << 'a' << '1' << endl;
